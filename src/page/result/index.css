@@ -1,0 +1,21 @@
+.page-wrap{
+    background: #fff;
+    margin-top:20px;
+    padding:30px;
+    text-align: center;
+}
+.page-wrap .result-title{
+    color:#555;
+}
+.page-wrap .result-con{
+    display: none;
+}
+.page-wrap .result-con .result-content{
+    margin-top:20px;
+}
+.page-wrap .result-content .link{
+    margin:0 5px;
+    border:1px solid #ccc;
+    padding:5px 10px;
+    border-radius:5px;
+}

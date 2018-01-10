@@ -1,0 +1,34 @@
+{
+  "name": "shopmmall",
+  "version": "1.0.0",
+  "description": "电商前端练习项目\r 技术栈 jQuery webpack node npm \r 采用前后端分离开发  模块化代码 抽离拆分组件",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack",
+    "server": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:XiangSiYugg/shopmmall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.6",
+    "html-loader": "^0.5.1",
+    "html-webpack-plugin": "^2.30.1",
+    "html-withimg-loader": "^0.1.16",
+    "style-loader": "^0.19.1",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.10.0"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "hogan": "^1.0.2",
+    "jquery": "^3.2.1",
+    "mockjs": "^1.0.1-beta3"
+  }
+}
