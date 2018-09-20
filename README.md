@@ -1,6 +1,6 @@
 # shopmmall
 
-电商前端练习项目
+电商前端练习项目.
 
 技术栈 jQuery webpack node npm 
 
